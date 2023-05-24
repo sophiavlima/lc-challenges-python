@@ -1,4 +1,4 @@
-# Salvando modificações no Git. versionamento
+# Curso digital: GIT
 # salvando modificações no Git.
 ## Estudando Git.
 * Comando git push
